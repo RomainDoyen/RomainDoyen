@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainDoyen)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RomainDoyen/RomainDoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
