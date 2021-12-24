@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainDoyen)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/romaindoyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="designandcreation36" height="30" width="40" /></a>
