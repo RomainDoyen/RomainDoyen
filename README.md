@@ -1,5 +1,4 @@
  ## 👦🏽 About me  
-<table><tr><td valign="top" width="33%">
  
  ### <div align="center">I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.</div>  
   
