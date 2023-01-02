@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.</div>  
+ ### <div align="center">I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/RomainDoyen)  
@@ -93,25 +88,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RomainDoyen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
