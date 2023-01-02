@@ -1,3 +1,6 @@
+ ## 👦🏽 About me  
+<table><tr><td valign="top" width="33%">
+ 
  ### <div align="center">I'm Romain from Reunion, and I do content on Design and Development. I also enjoy wireframing, ui, ux, and design in general.</div>  
   
 
@@ -9,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 📚 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -66,7 +69,7 @@
 <br/>  
 
 
-## Connect with me  
+## 📭 Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/romaindoyen39" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
